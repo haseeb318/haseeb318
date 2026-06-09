@@ -73,9 +73,6 @@ I'm a **Full Stack Web Developer** specialising in modern JavaScript technologie
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haseeb318&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb318&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ![Streak Stats](https://streak-stats.demolab.com?user=haseeb318&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&dates=c9d1d9&sideLabels=c9d1d9)
 
@@ -92,6 +89,5 @@ I'm a **Full Stack Web Developer** specialising in modern JavaScript technologie
 
 ---
 
-*"First, solve the problem. Then, write the code."*
 
 </div>
