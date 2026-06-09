@@ -55,18 +55,18 @@ I'm a **Full Stack Web Developer** specialising in modern JavaScript technologie
 
 ---
 
-##  What I Build
-
-```diff
-+ Responsive, interactive UIs with React & Next.js
-+ RESTful APIs with secure JWT authentication & RBAC authorization
-+ MongoDB schema design and database integration
-+ Real-time features using Socket.io
-+ Reusable and modular component systems
-+ Optimised performance and efficient state management
-+ Form validation and complex user input flows
-```
-
+## 🚀 What I Build
+ 
+| | |
+|---|---|
+| **Responsive UIs** | Building interactive frontends with React & Next.js |
+| **Secure APIs** | RESTful APIs with JWT authentication & RBAC authorization |
+| **Database Design** | MongoDB schema design and full database integration |
+| **Real-time Features** | Live, event-driven functionality using Socket.io |
+| **Component Systems** | Reusable, modular and scalable component architecture |
+| **State Management** | Efficient app state with Redux Toolkit & Context API |
+| **Form Validation** | Complex user input flows and validation handling |
+ 
 ---
 
 ##  GitHub Stats
